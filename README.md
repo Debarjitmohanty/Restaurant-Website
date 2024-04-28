@@ -1,3 +1,31 @@
-# Restaurant-Website
+![Application screenshot](./assets/screenshot.png)
 
-![image](https://github.com/Debarjitmohanty/Restaurant-Website/assets/91021174/7948f8e2-1aae-4550-8d63-0f128d274b65)
+[Pastacosi Restaurant](https://pastacosi.netlify.app) is a simple, modern and responsive website for restaurants, made with Bootstrap.
+
+# Live Preview:
+
+Link: https://pastacosi.netlify.app
+
+# Install
+
+- Clone the repository:
+
+```bash
+git clone https://github.com/AouintiAhmed/bootstrap-restaurant-app.git
+```
+
+- Open **`index.html`** in your browser, and enjoy !
+
+# Used libraries
+
+- JavaScript
+- CSS
+- Bootstrap5
+- Bootstrap-icons
+- Swiper
+- Isotope
+- Animate.css
+
+## Todos
+
+- [ ] Implement back-end project for food ordering, delivery, and booking tables.
